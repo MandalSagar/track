@@ -1,4 +1,4 @@
-#// connect mariadb in pytho
+# connect mariadb in pytho
 # from flask.ext.login import LoginManager
 # from flask_module import LoginManager
 # login_manager = LoginManager()
