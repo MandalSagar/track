@@ -1,0 +1,1 @@
+db connector in needed for that mariadb should be installed in the system 
